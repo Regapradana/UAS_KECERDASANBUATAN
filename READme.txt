@@ -1,0 +1,5 @@
+Nama 	: Rega Harto Pradana
+Nim	: 191011400815
+Kelas	: 06TPLM005
+
+UAS_KECERDASANBUATAN_
